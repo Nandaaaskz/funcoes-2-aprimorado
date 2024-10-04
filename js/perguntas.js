@@ -4,19 +4,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Babuíno",
-                afirmacao: "Pergunta 1 errada - marcado: Babuíno. ",
+                afirmacao: [
+                    "Pergunta 1 errada - marcado: Babuíno. ",
+                    "a"
+                ]
             },
             {
                 texto: "b. Orangotango",
-                afirmacao: "Pergunta 1 errada - marcado: Orangotango. ",
+                afirmacao: [
+                    "Pergunta 1 errada - marcado: Orangotango. ",
+
+                ]
             },
             {
                 texto: "c. Gorila",
-                afirmacao: "Pergunta 1 correta, parabéns. ",
+                afirmacao: [
+                    "Pergunta 1 correta, parabéns. ",
+
+                ]
             },
             {
                 texto: "d. Bugio",
-                afirmacao: "Pergunta 1 errada - marcado: Bugio. ",
+                afirmacao: [
+                    "Pergunta 1 errada - marcado: Bugio. ",
+
+                ]
             }
         ]
     },
@@ -25,19 +37,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Mogli",
-                afirmacao: "Pergunta 2 errada - marcado: Mogli. ",
+                afirmacao: [
+                    "Pergunta 2 errada - marcado: Mogli. ",
+
+                ]
             },
             {
                 texto: "b. Rodney",
-                afirmacao: "Pergunta 2 errada - marcado: Rodney. ",
+                afirmacao: [
+                    "Pergunta 2 errada - marcado: Rodney. ",
+
+                ]
             },
             {
                 texto: "c. Dumbo",
-                afirmacao: "Pergunta 2 errada - marcado: Dumbo (?????). ",
+                afirmacao: [
+                    "Pergunta 2 errada - marcado: Dumbo (?????). ",
+
+                ]
             },
             {
                 texto: "d. Tarzan",
-                afirmacao: "Pergunta 2 correta, é o Tarzan louco mesmo ;). ",
+                afirmacao: [
+                    "Pergunta 2 correta, é o Tarzan louco mesmo ;). ",
+
+                ]
             }
         ]
     },
@@ -46,19 +70,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Só comem frutas",
-                afirmacao: "Chipanzés comem de tudo. ",
+                afirmacao: [
+                    "Chipanzés comem de tudo. ",
+
+                ]
             },
             {
                 texto: "b. Só comem carne",
-                afirmacao: "Chipanzés comem de tudo. ",
+                afirmacao: [
+                    "Chipanzés comem de tudo. ",
+
+                ]
             },
             {
                 texto: "c. Comem de tudo",
-                afirmacao: "Chipanzés comem de tudo mesmo, pergunta 3 correta. ",
+                afirmacao: [
+                    "Chipanzés comem de tudo mesmo, pergunta 3 correta. ",
+
+                ]
             },
             {
                 texto: "d. قرد",
-                afirmacao: "لماذا أجبت على السؤال باللغة العربية أيها المهرج؟ ",
+                afirmacao: [
+                    "لماذا أجبت على السؤال باللغة العربية أيها المهرج؟ ",
+
+                ]
             }
         ]
     },
@@ -67,19 +103,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Pitangus sulphuratus",
-                afirmacao: "Pitangus sulphuratus é a espécie do bem-te-vi, errou haha lol. ",
+                afirmacao: [
+                    "Pitangus sulphuratus é a espécie do bem-te-vi, errou haha lol. ",
+
+                ]
             },
             {
                 texto: "b. Pan troglodytes",
-                afirmacao: "Acertou a pergunta da espécie dos manos monkeys. ",
+                afirmacao: [
+                    "Acertou a pergunta da espécie dos manos monkeys. ",
+
+                ]
             },
             {
                 texto: "c. Vampyroteuthis infernalis",
-                afirmacao: "Engraçadinho, Vampyroteuthis infernalis é a espécie da lula-vampira-do-inferno. ",
+                afirmacao: [
+                    "Engraçadinho, Vampyroteuthis infernalis é a espécie da lula-vampira-do-inferno. ",
+
+                ]
             },
             {
                 texto: "d. Aedes aegypti",
-                afirmacao: "???????????????? (nada será comentado sobre a pergunta da espécie). ",
+                afirmacao: [
+                    "???????????????? (nada será comentado sobre a pergunta da espécie). ",
+                
+                ]
             }
         ]
     },
@@ -88,19 +136,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Sagui-pigmeu",
-                afirmacao: "O menor macaco é o Sagui-pigmeu, resposta correta. ",
+                afirmacao: [
+                    "O menor macaco é o Sagui-pigmeu, resposta correta. ",
+
+                ]
             },
             {
                 texto: "b. Lêmure",
-                afirmacao: "Menor macaco - Sagui-pigmeu (resposta errada). ",
+                afirmacao: [
+                    "Menor macaco - Sagui-pigmeu (resposta errada). ",
+
+                ]
             },
             {
                 texto: "c. Macaco-prego",
-                afirmacao: "Menor macaco - Sagui-pigmeu (resposta errada). ",
+                afirmacao: [
+                    "Menor macaco - Sagui-pigmeu (resposta errada). ",
+
+                ]
             },
             {
                 texto: "d. Mico-leão-dourado",
-                afirmacao: "Menor macaco - Sagui-pigmeu (resposta errada). ",
+                afirmacao: [
+                    "Menor macaco - Sagui-pigmeu (resposta errada). ",
+
+                ]
             }
         ]
     },
@@ -109,19 +169,31 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "a. Isso é triste :(",
-                afirmacao: "Você acertou a última pergunta (obrigatório).",
+                afirmacao: [
+                    "Você acertou a última pergunta (obrigatório).",
+
+                ]
             },
             {
                 texto: "b. Isso é paia :(",
-                afirmacao: "Você acertou a última pergunta (obrigatório).",
+                afirmacao: [
+                    "Você acertou a última pergunta (obrigatório).",
+
+                ]
             },
             {
                 texto: "c. fodasekkk",
-                afirmacao: "conseguiu errar a única pergunta inerrável (vergonha).",
+                afirmacao: [
+                    "conseguiu errar a única pergunta inerrável (vergonha).",
+
+                ]
             },
             {
                 texto: "d. Isso é complicado :(",
-                afirmacao: "Você acertou a última pergunta (obrigatório).",
+                afirmacao: [
+                    "Você acertou a última pergunta (obrigatório).",
+
+                ]
             }
         ]
     },
