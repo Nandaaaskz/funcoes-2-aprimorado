@@ -45,12 +45,14 @@ function mostraResultado(){
     caixaPerguntas.textContent = "Congratulations, você terminou o show do macaco.";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
+    caixaResultado.classList.add("mostrar");
     botaoJogarNovamente.addEventListener("click", jogarNovamente);
 }
 
 function jogarNovamente(){
     atual = 0
     historiaFinal = "";
+    caixaResultado.classList.remove("mostrar");
     mostraPergunta();
 }
 
